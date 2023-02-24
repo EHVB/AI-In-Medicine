@@ -1,2 +1,5 @@
-# AI-In-Medicine
-AI in Medicine (SBE3021) Coursework
+# AI In Medicine
+
+### Assignments
+- Assignment 1 
+  - [Introduction to machine learning]()
