@@ -7,3 +7,5 @@
   - [Regression](./Assignment2/)
 - Assignment 3
   - [Decision Tree With ID3](./Assignment3/)
+- Assignment 4
+  - [Scikit-learn Decision Tree](./Assignment4/)
