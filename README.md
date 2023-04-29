@@ -9,3 +9,5 @@
   - [Decision Tree With ID3](./Assignment3/)
 - Assignment 4
   - [Scikit-learn Decision Tree](./Assignment4/)
+- Assignment 5
+  - [K-means Clustering](./Assignment5/)
