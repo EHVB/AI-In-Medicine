@@ -11,3 +11,5 @@
   - [Scikit-learn Decision Tree](./Assignment4/)
 - Assignment 5
   - [K-means Clustering](./Assignment5/)
+- Assignment 6
+  - [SVM and PCA](./Assignment6/)
