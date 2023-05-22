@@ -13,3 +13,5 @@
   - [K-means Clustering](./Assignment5/)
 - Assignment 6
   - [SVM and PCA](./Assignment6/)
+- Assignment 7
+  - [Recommender System](./Assignment7/)
